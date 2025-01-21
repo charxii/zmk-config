@@ -6,4 +6,3 @@ url: https://github.com/imstubtw/chonkv/
 requires: [pro_micro]
 features:
   - keys
-  - display
