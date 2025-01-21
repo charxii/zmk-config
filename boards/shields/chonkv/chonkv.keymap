@@ -42,8 +42,8 @@
           bindings = <
             &trans &kp F1    &kp F2    &kp F3      &kp F4   &kp F5                 &kp F6    &kp F7   &kp F8    &kp F9    &kp F10  &kp F11
             &trans &kp EXCL  &kp AT    &kp HASH    &kp DLLR &kp PRCNT              &kp CARET &kp AMPS &kp ASTRK &kp LPAR  &kp RPAR &kp BSPC
-            &trans &kp KP_1  &kp KP_2  &kp KP_3    &kp KP_4 &kp KP_5               &kp LEFT &kp DOWN &kp UP &RIGHT &trans &trans
-            &trans &kp KP_6  &kp KP_7 &kp KP_8    &kp KP_9 &kp KP_0              &kp KP_DOT &kp KP_ENTER &kp KP_MINUS &kp KP_PLUS &kp KP_PLUS &trans
+            &trans &kp N1    &kp N2    &kp N3      &kp N4   &kp N5               &kp LEFT &kp DOWN &kp UP &kp RIGHT &trans &trans
+            &trans &kp N6    &kp N7 &kp N8       &kp N9 &kp N0              &kp KP_DOT &kp KP_ENTER &kp KP_MINUS &kp KP_PLUS &kp KP_PLUS &trans
                              &trans    &trans      &trans   &trans   &trans &trans &mo 3     &trans   &trans    &trans
           >;
         };
