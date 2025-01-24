@@ -104,11 +104,11 @@
           //               |      |      |      |      |      | |      |      |      |      |      |
           //               `----------------------------------' '----------------------------------'
           bindings = <
-              &kp C_RESET &trans &trans         &trans         &trans          &trans               &trans &trans          &trans         &trans          &trans &trans
-              &trans      &trans &mmv MB1       &mmv SCRL_UP   &mmv MB2        &trans               &trans &mmv MB1        &mmv MOVE_UP   &mmv MB2        &trans &trans
-              &trans      &trans &mmv SCRL_LEFT &mmv SCRL_DOWN &mmv SCRL_RIGHT &trans               &trans &mmv MOVE_RIGHT &mmv MOVE_DOWN &mmv MOVE_RIGHT &trans &trans
-              &kp K_SLEEP &trans &trans         &trans         &trans          &trans               &trans &trans          &trans         &trans          &trans &trans
-                                 &trans         &trans         &trans          &trans &trans &trans &trans &trans          &trans         &trans
+              &kp C_RESET &trans &trans         &trans         &trans          &trans               &trans &trans         &trans         &trans          &trans &trans
+              &trans      &trans &mmv MB1       &mmv SCRL_UP   &mmv MB2        &trans               &trans &mmv MB1       &mmv MOVE_UP   &mmv MB2        &trans &trans
+              &trans      &trans &mmv SCRL_LEFT &mmv SCRL_DOWN &mmv SCRL_RIGHT &trans               &trans &mmv MOVE_LEFT &mmv MOVE_DOWN &mmv MOVE_RIGHT &trans &trans
+              &kp K_SLEEP &trans &trans         &trans         &trans          &trans               &trans &trans         &trans         &trans          &trans &trans
+                                 &trans         &trans         &trans          &trans &trans &trans &trans &trans         &trans         &trans
             >;
           };
     };
